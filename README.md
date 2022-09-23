@@ -1,4 +1,4 @@
-## Hello there! 👋
+## 👋 Hello there!
 I'm José Baquerizo an Ecuadorian Front-end developer based in Salinas. 
 I have created several web projects from scratch using React JS/Next JS, Node JS Express JS and more. I always focus on the User Experience making them beautiful, memorable and providing solutions that meets the needs of the user.
 
