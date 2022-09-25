@@ -20,3 +20,22 @@ I've got experience teamworking, troubleshooting, communicating effectively, mod
 |Databases|Tools|Design/Prototype|
 |--|--|--|
 | ![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)|  ![Git Github](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)|![Adobe Ilustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black) ![enter image description here](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)|
+<!---
+## 📈 Statistics
+[![Baquerizogo most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baquerizogo)](https://github.com/baquerizogo)
+-->
+
+## 🎈 Projects 
+
+ - 🏷 **Samara:** Samara is a cloud-based SaaS for all-size businesses to automatize their finances, processes and inventories without needing complex technological architecture just click and run. *(This is a complete project made together with the he-llo team)* [Try Samara.](https://www.samara.center/)
+ - 📅 **Class Schedules Automation app:** Web app made for a specific school to automate class schedules and fix time distribution for teachers between classes using *Operations Research* and *Process Optimization with Linear programming*. [See repository](https://github.com/baquerizogo/ScheduleClient).
+ - 👨‍💼 **Personal website:** Portfolio where you can find all my work and projects info. [Visit me](https://www.baquerizogo.com/)
+ - 💼 **he-llo website:** Landing page made for *he-llo*. [Visit he-llo](https://www.he-llo.com/)
+
+## 🔎 How to find me
+Find me on any social network as @Baquerizogo.
+
+ -  👔 [LinkedIn](https://www.linkedin.com/in/baquerizogo/)
+ - 🦜 [Twitter](https://twitter.com/BaquerizoGo)
+ - 📸 [Instagram](https://www.instagram.com/baquerizogo/)
+ - 💻 [Website](https://www.baquerizogo.com/)
