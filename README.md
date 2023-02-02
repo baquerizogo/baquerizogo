@@ -4,12 +4,26 @@ I have created several web projects from scratch using React JS/Next JS, Node JS
 
 I've got experience teamworking, troubleshooting, communicating effectively, modularizating projects and implementing version controlling.
 
-- 💻 I’m currently developing [Samara](https://www.samara.center/) at [he-llo](https://www.he-llo.com/)
-- 🌱 I'm looking forward to be a web3 developer.
-- 📈 I'm also mastering soft/hard skills 24/7.
-- 💬 I speak Spanish and English (Intermediate).
-- 🏊‍♀️ Swimming is the best sport except when it's cold...
+- 💻 Currently developing [Samara](https://www.samara.center/) at [he-llo](https://www.he-llo.com/)
+- 🌱 Looking forward to be a full-stack.
+- 📈 Mastering soft/hard skills 24/7.
+- 💬 Speaking Spanish and English (Intermediate).
+- 🏊‍♀️ Swimming...
 - 📫 You can find me as @Baquerizogo on any social network!
+
+## 🎈 Personal Projects 
+
+ - 📅 **Class Schedules Automation app:** Web app made for a specific school to automate class schedules and fix time distribution for teachers between classes using *Operations Research* and *Process Optimization with Linear programming*. [See repository](https://github.com/baquerizogo/ScheduleClient).
+ - 👨‍💼 **Personal website:** Portfolio where you can find all my work and projects info. [Visit me](https://www.baquerizogo.com/)
+ - 💼 **he-llo website:** Landing page made for *he-llo*. [Visit he-llo](https://www.he-llo.com/)
+ - ♟️ **Project manager:** Web and mobile app to manage projects and tasks made in React (Web) and Ionic (Mobile).
+
+
+## 🎯 Contributions
+
+- 🏷 **Samara App:** Samara is a cloud-based SaaS made from scratch for all-size businesses to automatize their finances, processes and inventories without needing complex technological architecture just click and run. *(As front-end developer at he-llo) [Try Samara.](https://www.samara.center/)
+ - 💸 **Pocky App:** Web and mobile cloud-based app to manage personal finances, incomes, expenses, budget, etc. *(As full-stack developer at he-llo)* Work-in-progress 
+
 
 ## 🔥 Technologies
 |Programming languages| Front-end | Back-end |
@@ -25,12 +39,6 @@ I've got experience teamworking, troubleshooting, communicating effectively, mod
 [![Baquerizogo most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baquerizogo)](https://github.com/baquerizogo)
 -->
 
-## 🎈 Projects 
-
- - 🏷 **Samara:** Samara is a cloud-based SaaS for all-size businesses to automatize their finances, processes and inventories without needing complex technological architecture just click and run. *(This is a complete project made together with the he-llo team)* [Try Samara.](https://www.samara.center/)
- - 📅 **Class Schedules Automation app:** Web app made for a specific school to automate class schedules and fix time distribution for teachers between classes using *Operations Research* and *Process Optimization with Linear programming*. [See repository](https://github.com/baquerizogo/ScheduleClient).
- - 👨‍💼 **Personal website:** Portfolio where you can find all my work and projects info. [Visit me](https://www.baquerizogo.com/)
- - 💼 **he-llo website:** Landing page made for *he-llo*. [Visit he-llo](https://www.he-llo.com/)
 
 ## 🔎 How to find me
 Find me on any social network as @Baquerizogo.
