@@ -1,13 +1,12 @@
 ## 👋 Hello there!
-I'm José Baquerizo an Ecuadorian Front-end developer based in Salinas. 
-I have created several web projects from scratch using React JS/Next JS, Node JS Express JS and more. I always focus on the User Experience making them beautiful, memorable and providing solutions that meets the needs of the user.
+I'm José Baquerizo an Ecuadorian developer based in Salinas.
+I build software that focuses on user experience and meet the needs of the users. I've worked on several web projects using React JS/Next JS, Node JS, Express JS, etc. As well as UPF Framework for Payment processing systems!
 
-I've got experience teamworking, troubleshooting, communicating effectively, modularizating projects and implementing version controlling.
-
-- 💻 Currently developing [Samara](https://www.samara.center/) at [he-llo](https://www.he-llo.com/)
-- 🌱 Looking forward to be a full-stack.
-- 📈 Mastering soft/hard skills 24/7.
-- 💬 Speaking Spanish and English (Intermediate).
+I have experience in teamworking, troubleshooting, communicating effectively, modularizing projects, and implementing version controlling.
+- 👨‍💻 Developing Payment Processing Systems at [Kuvasz](https://www.kvz.cl/)
+- 💻 Developing [Samara](https://www.samara.center/) at [he-llo](https://www.he-llo.com/)
+- 🌱 Growing up devs skills, good practices, and beautiful software.
+- 💬 Spanish and English (Intermediate).
 - 🏊‍♀️ Swimming...
 - 📫 You can find me as @Baquerizogo on any social network!
 
@@ -28,7 +27,7 @@ I've got experience teamworking, troubleshooting, communicating effectively, mod
 ## 🔥 Technologies
 |Programming languages| Front-end | Back-end |
 |--|--|--|
-|![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)| ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)|
+|![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)| ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)|
 
 
 |Databases|Tools|Design/Prototype|Testing|
@@ -43,7 +42,7 @@ I've got experience teamworking, troubleshooting, communicating effectively, mod
 ## 🔎 How to find me
 Find me on any social network as @Baquerizogo.
 
- -  👔 [LinkedIn](https://www.linkedin.com/in/baquerizogo/)
+ - 👔 [LinkedIn](https://www.linkedin.com/in/baquerizogo/)
  - 🦜 [Twitter](https://twitter.com/BaquerizoGo)
  - 📸 [Instagram](https://www.instagram.com/baquerizogo/)
  - 💻 [Website](https://www.baquerizogo.com/)
