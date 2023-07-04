@@ -7,7 +7,7 @@ I have experience in teamworking, troubleshooting, communicating effectively, mo
 - 💻 Developing [Samara](https://www.samara.center/) at [he-llo](https://www.he-llo.com/)
 - 🌱 Growing up devs skills, good practices, and beautiful software.
 - 💬 Spanish and English (Intermediate).
-- 🏊‍♀️ Swimming...
+- 🏊‍♂️ Swimming...
 - 📫 You can find me as @Baquerizogo on any social network!
 
 ## 🎈 Personal Projects 
