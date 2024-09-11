@@ -1,14 +1,19 @@
 ## 👋 Hello there!
 I'm José Baquerizo an Ecuadorian developer based in Salinas.
-I build software that focuses on user experience and meet the needs of the users. I've worked on several web projects using React JS/Next JS, Node JS, Express JS, etc. As well as UPF Framework for Payment processing systems!
+I build scalable software that focuses on user experience and meet their needs. I've worked on several web projects using React JS/Next JS, Node JS, Express JS and more. As well as UPF Framework for Payment processing systems!
 
-I have experience in teamworking, troubleshooting, communicating effectively, modularizing projects, and implementing version controlling.
 - 👨‍💻 Developing Payment Processing Systems at [Kuvasz](https://www.kvz.cl/)
-- 💻 Developing [Samara](https://www.samara.center/) at [he-llo](https://www.he-llo.com/)
+- 💻 Developing Pocky at he-llo
 - 🌱 Growing up devs skills, good practices, and beautiful software.
-- 💬 Spanish and English (Intermediate).
+- 💬 Spanish and English (B2).
 - 🏊‍♂️ Swimming...
 - 📫 You can find me as @Baquerizogo on any social network!
+
+## 🗿 Strengths
+- 🤝 Teamwork
+- 🐞 Troubleshooting
+- 🗣️ Communication
+- 🔥 Passion
 
 ## 🎈 Personal Projects 
 
@@ -21,7 +26,8 @@ I have experience in teamworking, troubleshooting, communicating effectively, mo
 ## 🎯 Contributions
 
 - 🏷 **Samara App:** Samara is a cloud-based SaaS made from scratch for all-size businesses to automatize their finances, processes and inventories without needing complex technological architecture just click and run. *(As front-end developer at he-llo) [Try Samara.](https://www.samara.center/)
- - 💸 **Pocky App:** Web and mobile cloud-based app to manage personal finances, incomes, expenses, budget, etc. *(As full-stack developer at he-llo)* Work-in-progress 
+ - 💸 **Pocky App:** Web and mobile cloud-based app to manage personal finances, incomes, expenses, budget, etc. *(As full-stack developer at he-llo)* Work-in-progress
+ - 🏧 **Payment Processing Systems:** [CONFIDENTIAL] *(As Business Service Developer at Kuvasz Solutions)*
 
 
 ## 🔥 Technologies
@@ -39,7 +45,7 @@ I have experience in teamworking, troubleshooting, communicating effectively, mo
 -->
 
 
-## 🔎 How to find me
+## 🔎 Find me
 Find me on any social network as @Baquerizogo.
 
  - 👔 [LinkedIn](https://www.linkedin.com/in/baquerizogo/)
